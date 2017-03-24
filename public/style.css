@@ -1,0 +1,21 @@
+body {
+  background-color: #ac7cff;
+  font-size: 30px;
+  font-family: "Courier New";
+}
+
+.horoscope {
+  width: 400px;
+  height: 200px;
+  border-style: dotted;
+  border-width: 3px;
+  border-color: #ffffff;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 50px;
+  margin: auto;
+}
